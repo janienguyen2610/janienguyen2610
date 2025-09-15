@@ -20,7 +20,7 @@ Welcome to my GitHub profile. I focus on data-driven solutions that support stra
 - Comparative time-series analysis of stock prices and financial performance using Python
 - Techniques: `yfinance`, `pandas`, data visualization with `matplotlib`  
 
-### 🗄️ [SQL Case Study: HR Database Analysis](https://github.com/janienguyen2610/SQLProjects/blob/main/HR_Analysis.sql)
+### 🗄️ [SQL Case Study: HR Database Analysis] (in process) (https://github.com/janienguyen2610/SQLProjects/blob/main/HR_Analysis.sql)
 - Designed and executed queries to extract insights on hiring trends, turnover rates, and salary distributions
 - Focused on clean, efficient SQL using joins, filtering, and window functions
 
