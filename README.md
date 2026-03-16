@@ -1,17 +1,16 @@
-# ⭐️ Janie Nguyen ⭐️
+# Janie Nguyen
 
-**Data Analyst | Python Developer | SQL Specialist**
+**Financial & Business Analyst | Accounting × MIS | SQL · Excel · Power BI · Python**
 
-Welcome to my GitHub profile. I focus on data-driven solutions that support strategic decision-making. My projects range from exploratory data analysis to structured query optimization and dashboard development. I aim to bridge the gap between raw data and actionable insight.
+I build analytics solutions that go beyond charts — connecting financial data to business decisions. My projects cover the full pipeline: data cleaning and modeling in SQL, financial forecasting in Excel, and executive dashboards in Power BI with DAX. I focus on finding the insight that standard reporting misses, and I'm always eager to pick up new tools and push deeper into the ones I already use.
 
 ---
 
 ## 🔍 Core Skills
-
-- **Data Analysis & Visualization**: Python (Pandas, Matplotlib, Seaborn), Excel, Power BI  
-- **Database Management**: MySQL, SQLite 
-- **ETL & Data Cleaning**: Python scripting, regular expressions, data transformation  
-
+- **Financial Analytics**: Forecasting, variance analysis, scenario modeling, seasonal decomposition, management reporting
+- **Tools**: Excel (PivotTables, Power Query, Scenario Analysis), Power BI (DAX, Data Modeling), SQL, Python (Pandas, Matplotlib, Seaborn), IBM Cognos
+- **Database & Data Engineering**: MySQL, SQLite, ETL pipelines, data transformation
+- **Domain**: Business analytics, audit data analytics, M&A financial modeling, research analytics
 ---
 
 ## 🧩 Projects
