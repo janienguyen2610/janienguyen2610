@@ -1,5 +1,4 @@
-# Janie Nguyen
-
+# 👋 Hi, I'm Janie Nguyen
 **Financial & Business Analyst | Accounting × MIS | SQL · Excel · Power BI · Python**
 
 I build analytics solutions that go beyond charts — connecting financial data to business decisions. My projects cover the full pipeline: data cleaning and modeling in SQL, financial forecasting in Excel, and executive dashboards in Power BI with DAX. I focus on finding the insight that standard reporting misses, and I'm always eager to pick up new tools and push deeper into the ones I already use.
