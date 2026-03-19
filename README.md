@@ -16,7 +16,7 @@ I build analytics solutions that go beyond charts — connecting financial data 
 
 ### 🛒 [Walmart Store Sales Performance Dashboard](https://github.com/janienguyen2610/walmart-sales)
 - End-to-end retail analytics pipeline across SQL, Excel, and Power BI — seasonal decomposition, 3-year revenue forecast, and executive dashboard with DAX measures and Date Bridge data modeling
-- Tools: `MySQL`, `Excel (Power Query, Scenario Analysis)`, `Power BI (DAX)`, `Python` · [Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=726acd5f-be36-429f-8422-30da4ca44ffe&autoAuth=true&ctid=a36450eb-db06-42a7-8d1b-026719f701e3)
+- Tools: `MySQL`, `Excel (Power Query, Scenario Analysis)`, `Power BI (DAX)` 
   
 ### 📈 [Tesla vs. GameStop: Historical Price & Revenue Analysis](https://github.com/janienguyen2610/PythonProjects/blob/main/Tesla_GameStop_EDA.ipynb)
 - Comparative time-series analysis of stock prices and financial performance using Python
